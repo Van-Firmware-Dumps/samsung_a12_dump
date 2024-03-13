@@ -1,0 +1,20 @@
+## a12ks-user 12 SP1A.210812.016 A125NKSS2CXA1 release-keys
+- Manufacturer: samsung
+- Platform: mt6765
+- Codename: a12
+- Brand: samsung
+- Flavor: a12ks-user
+- Release Version: 12
+- Kernel Version: 4.19.188
+- Id: SP1A.210812.016
+- Incremental: A125NKSS2CXA1
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: ko-KR
+- Screen Density: undefined
+- Fingerprint: samsung/a12ks/a12:12/SP1A.210812.016/A125NKSS2CXA1:user/release-keys
+- OTA version: 
+- Branch: a12ks-user-12-SP1A.210812.016-A125NKSS2CXA1-release-keys
+- Repo: samsung_a12_dump
