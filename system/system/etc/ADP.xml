@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<VERSION value="20221213"/>
+<ADP version="2.0">
+    <HASHVALUE name="1b678c80fc9940d60d4ad7b3dd41ef886e196bb633c75611a5d94e1c63fab0bf">
+        <pattern value="^\d{9}\z">
+            <hashCode value="310200015"/>
+            <versionType value="5"/>
+        </pattern>
+    </HASHVALUE>
+    <HASHVALUE name="04e0eacb0b3ce7dcb5b5d2f074bb993db66d36a1620e56d8f3f279ab090aef05">
+        <pattern value="[0-9]+">
+            <hashCode value="302300000" />
+            <versionType value="1703114115" />
+            <format value="([0-9]+)" />
+        </pattern>
+    </HASHVALUE>
+    <HASHVALUE name="22a9dc376f650ceecadad37018c4751fcb93b5d1b875742b1ba3158845a1a21c">
+        <pattern value="[0-9]+">
+            <hashCode value="4" />
+            <versionType value="1703114115" />
+            <format value="([0-9]+)" />
+        </pattern>
+    </HASHVALUE>
+    <HASHVALUE name="5b94750bfbf9a643ee96cdf0bc86f7f461bb9f152a7badb78020cb18f80c7a07">
+        <pattern value="[0-9]+">
+            <hashCode value="33" />
+            <versionType value="1703114115" />
+            <format value="([0-9]+)" />
+        </pattern>
+    </HASHVALUE>
+    <HASHVALUE name="8da6e55a0a7e66b8550c85105c25b9a8d5df90dfde1000cc6f3b5a263e48e71e">
+        <pattern value="[0-9]+">
+            <hashCode value="33" />
+            <versionType value="1703114115" />
+            <format value="([0-9]+)" />
+        </pattern>
+    </HASHVALUE>
+    <HASHVALUE name="bf22fbb26136cbea3554044f1c7c469a2631cd39201276cc3ce195518d98fa7a">
+        <pattern value="[0-9]+">
+            <hashCode value="16" />
+            <versionType value="1703114115" />
+            <format value="([0-9]+)" />
+        </pattern>
+    </HASHVALUE>
+    <HASHVALUE name="cb0b7b0e5d9514716a9bc12e8f58364f392d0f9fd47d9e6b3f2b0ce05527ad40">
+        <pattern value="[0-9]+">
+            <hashCode value="930000017" />
+            <versionType value="1703114115" />
+            <format value="([0-9]+)" />
+        </pattern>
+    </HASHVALUE>
+    <HASHVALUE name="9c8ceaa058eebc84e908936f03beab423fdab6da84825a8a78382cb635ae6673">
+        <pattern value="[0-9]+">
+            <hashCode value="33" />
+            <versionType value="1703114115" />
+            <format value="([0-9]+)" />
+        </pattern>
+    </HASHVALUE>
+    <HASHVALUE name="36d9f8e7de2c42f751b8c0faa2376899638bb6e022b1fb28f92f7f499b9153b7">
+        <pattern value="[0-9]+">
+            <hashCode value="33" />
+            <versionType value="1703114115" />
+            <format value="([0-9]+)" />
+        </pattern>
+    </HASHVALUE>
+    <HASHVALUE name="bb4d4704ccf90ee3747d110c99efd7d09279f918d7607c4c0c4ca0bd614a7d9a">
+        <pattern value="[0-9]+">
+            <hashCode value="1" />
+            <versionType value="1703114115" />
+            <format value="([0-9]+)" />
+        </pattern>
+    </HASHVALUE>
+</ADP>
