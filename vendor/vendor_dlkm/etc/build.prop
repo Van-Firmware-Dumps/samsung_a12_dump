@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.vendor_dlkm.brand=samsung
+ro.product.vendor_dlkm.device=a12
+ro.product.vendor_dlkm.manufacturer=samsung
+ro.product.vendor_dlkm.model=SM-A125N
+ro.product.vendor_dlkm.name=a12ks
+ro.vendor_dlkm.build.date=Fri Jan  5 10:21:09 KST 2024
+ro.vendor_dlkm.build.date.utc=1704417669
+ro.vendor_dlkm.build.fingerprint=samsung/a12ks/a12:12/SP1A.210812.016/A125NKSS2CXA1:user/release-keys
+ro.vendor_dlkm.build.id=SP1A.210812.016
+ro.vendor_dlkm.build.tags=release-keys
+ro.vendor_dlkm.build.type=user
+ro.vendor_dlkm.build.version.incremental=A125NKSS2CXA1
+ro.vendor_dlkm.build.version.release=12
+ro.vendor_dlkm.build.version.release_or_codename=12
+ro.vendor_dlkm.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=mtp
+# end of file
+
